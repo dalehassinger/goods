@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PERSONAL on Goods Construction</title>
-    <link>https://example.org/perso/</link>
+    <link>https://dalehassinger.github.io/perso/</link>
     <description>Recent content in PERSONAL on Goods Construction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/perso/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dalehassinger.github.io/perso/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
