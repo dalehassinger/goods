@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PROFESSIONAL on Goods Construction</title>
-    <link>https://dalehassinger.github.io/pro/</link>
+    <link>https://dalehassinger.github.io/goods/pro/</link>
     <description>Recent content in PROFESSIONAL on Goods Construction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dalehassinger.github.io/pro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dalehassinger.github.io/goods/pro/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
