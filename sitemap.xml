@@ -3,159 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/pro/the-awesome-company/other-project/</loc>
+    <loc>https://username.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/pro/the-awesome-company/simple-project/</loc>
+    <loc>https://username.github.io/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/pro/company/single-project/</loc>
+    <loc>https://username.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/categories/art/</loc>
+    <loc>https://username.github.io/page/contact/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/tags/asian/</loc>
+    <loc>https://username.github.io/page/new-construction/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/tags/bundle/</loc>
+    <loc>https://username.github.io/page/remodel/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/categories/</loc>
+    <loc>https://username.github.io/page/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/pro/client-x/</loc>
+    <loc>https://username.github.io/page/services/</loc>
   </url>
   
   <url>
-    <loc>https://dalehassinger.github.io/goods/pro/company/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/drawing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/drawings/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/foie-gras/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/food/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/categories/food/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/human/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/statues/humans/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/categories/it/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/food/moo-moo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/drawings/music/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/music/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/statues/others/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/pho/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/pro/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/drawings/random/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/salad/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/seafood/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/simple/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/food/no-photos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/soup/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/categories/statue/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/statues/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/pro/the-awesome-company/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/pro/client-x/single-project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/perso/food/vietnam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/categories/vietnam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/goods/tags/western/</loc>
+    <loc>https://username.github.io/tags/</loc>
   </url>
   
 </urlset>
