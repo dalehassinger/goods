@@ -5,6 +5,8 @@
     <link>https://dalehassinger.github.io/goods/</link>
     <description>Recent content on Goods Construction</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>tagood67@gmail.com</managingEditor>
+    <webMaster>tagood67@gmail.com</webMaster>
     
 	<atom:link href="https://dalehassinger.github.io/goods/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,21 +15,19 @@
       <title>About</title>
       <link>https://dalehassinger.github.io/goods/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/about/</guid>
-      <description>Company:  Third generation family business. Carl Good, Troy Good and Sean Good  </description>
+      <description>Company:  Third generation family business. Carl Good, Troy Good and Sean Good  We believe in providing a quality home to ensure repeat and referral business achieved by home owner satisfaction.
+Building your home should be an exciting experience. Goods Construction will help you in every step of the way from start to finish. We will do our best to answer any and all of the questions you might have while building your new home.</description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://dalehassinger.github.io/goods/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/contact/</guid>
-      <description>Carl Good: (570) 837-0305
-Troy Good: (570) 765-1766
-Sean Good: (570) 850-0649
-1985 Zion Rd, Middleburg, PA 17842
+      <description>Carl Good: (570) 837-0305 Troy Good: (570) 765-1766 Sean Good: (570) 850-0649 1985 Zion Rd, Middleburg, PA 17842
 www.GoodsConstruction.com
 tagood67@gmail.com</description>
     </item>
@@ -36,7 +36,7 @@ tagood67@gmail.com</description>
       <title>Gallery</title>
       <link>https://dalehassinger.github.io/goods/page/kitchen-baths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/kitchen-baths/</guid>
       <description>20140618 190320
       20140618 190342
@@ -54,7 +54,7 @@ tagood67@gmail.com</description>
       <title>Gallery</title>
       <link>https://dalehassinger.github.io/goods/page/new-construction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/new-construction/</guid>
       <description>I m g 0030
       I m g 0031
@@ -70,7 +70,7 @@ tagood67@gmail.com</description>
       <title>Gallery</title>
       <link>https://dalehassinger.github.io/goods/page/remodel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/remodel/</guid>
       <description>I m g 0445
       I m g 0446
@@ -86,7 +86,7 @@ tagood67@gmail.com</description>
       <title>Services</title>
       <link>https://dalehassinger.github.io/goods/page/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>tagood67@gmail.com</author>
       <guid>https://dalehassinger.github.io/goods/page/services/</guid>
       <description>Residential Projects:  New Home Construction Home Remodel Home Additions Home Restoration Kitchen Remodel Bath Remodel Tile Installation Floors/Showers Finished Basements Garages Window Installation Door Installation Electrical Repairs Roofs Shingled/Steel  Features:  Energy Saving Features Green Products Fine Craftsmanship Professional Service  Commercial Projects:  New Construction  </description>
     </item>
